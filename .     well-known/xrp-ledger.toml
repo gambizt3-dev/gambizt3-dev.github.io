@@ -1,7 +1,26 @@
+[METADATA]
+modified = 2026-09-22T11:10:02.112Z
+
+[[ACCOUNTS]]
+address = "rw21wBfTGRr6nPL6JahVzZv8XWpoNvxx1w"
+network = "testnet"
+
+[[ISSUERS]]
+address = "rw21wBfTGRr6nPL6JahVzZv8XWpoNvxx1w"
+name = "MONK"
+desc = "MONK XRPL Testnet token"
+
+[[TOKENS]]
+issuer = "rw21wBfTGRr6nPL6JahVzZv8XWpoNvxx1w"
+currency = "MONK"
+name = "MONK"
+desc = "MONK experimental token on the XRPL Testnet."
+icon = "https://raw.githubusercontent.com/gambizt3-dev/monk-xrpl/refs/heads/main/99BE2CD6-6124-4E5E-996E-89F00202ABBC.png"
+asset_class = "memes"
+
 [[CURRENCIES]]
 code = "MONK"
 issuer = "rw21wBfTGRr6nPL6JahVzZv8XWpoNvxx1w"
-name = "MONK"
-desc = "MONK XRPL Testnet token"
-icon = "https://raw.githubusercontent.com/gambizt3-dev/monk-xrpl/refs/heads/main/99BE2CD6-6124-4E5E-996E-89F00202ABBC.png"
-# MONK metadata
+network = "testnet"
+display_decimals = 8
+symbol = "MNK"
